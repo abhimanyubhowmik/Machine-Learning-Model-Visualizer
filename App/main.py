@@ -9,7 +9,7 @@ import Logging
 
 log = Logging.app_logging()
 
-im = Image.open("favicon.png")
+im = Image.open("App/favicon.png")
 st.set_page_config(
 page_title="ML Model Visualizer",
 page_icon=im,
