@@ -16,8 +16,8 @@ page_icon=im,
 layout="wide",
 initial_sidebar_state="expanded",
 menu_items={
-        "Get Help": "https://github.com/abhimanyubhowmik",
-        "Report a bug": "https://linkedin.com/in/bhowmikabhimanyu",
+        "Get Help": "https://github.com/abhimanyubhowmik/Machine-Learning-Model-Visualizer",
+        "Report a bug": "https://github.com/abhimanyubhowmik/Machine-Learning-Model-Visualizer/issues",
         "About": "### A Machine Learning Models Visualisation Application \n :copyright: Abhimayu Bhowmik \n\n Github: https://github.com/abhimanyubhowmik \n\n Linkedin: https://linkedin.com/in/bhowmikabhimanyu ",
     }
 )
