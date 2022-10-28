@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/machine-learning-model-visualizer/main/App/main.py)[![Heroku](https://img.shields.io/badge/Open_In-Heroku-blueviolet)](https://ml-model-visualizer.herokuapp.com/)
 
-![Custom badge](https://img.shields.io/endpoint?color=blueviolet&label=Open%20In&logo=Heroku&logoColor=blueviolet&url=https%3A%2F%2Fml-model-visualizer.herokuapp.com%2F)
+![Custom badge](https://heroku-booting-badge.herokuapp.com/badge?app=ml-model-visualizer)
 
  Demonstration of various Machine Learning Classification and Regression Models over several most popular and random datasets with real time hyper parameter tuning.
 
