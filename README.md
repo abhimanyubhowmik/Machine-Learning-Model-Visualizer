@@ -4,6 +4,8 @@
 
 ![Custom badge](https://img.shields.io/endpoint?color=blueviolet&label=Open%20In&logo=Heroku&logoColor=blueviolet&url=https%3A%2F%2Fml-model-visualizer.herokuapp.com%2F&message=Heroku)
 
+[![Heroku](https://img.shields.io/badge/Open_in-Heroku-blueviolet?logo=Heroku&logoColor=white)](https://ml-model-visualizer.herokuapp.com/)
+
  Demonstration of various Machine Learning Classification and Regression Models over several most popular and random datasets with real time hyper parameter tuning.
 
  ## App Includes:
