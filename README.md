@@ -1,7 +1,7 @@
 <h1> Machine-Learning-Model-Visualizer</h1>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/machine-learning-model-visualizer/main/App/main.py)
-[![Heroku](https://img.shields.io/badge/Open_in-Heroku-blueviolet?logo=Heroku&logoColor=blueviolet)](https://ml-model-visualizer.herokuapp.com/)
+[![Heroku](https://img.shields.io/badge/Open_in-Heroku-blueviolet?logo=Heroku&logoColor=white)](https://ml-model-visualizer.herokuapp.com/)
 
  Demonstration of various Machine Learning Classification and Regression Models over several most popular and random datasets with real time hyper parameter tuning.
 
