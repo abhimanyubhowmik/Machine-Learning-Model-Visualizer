@@ -1,6 +1,6 @@
 # Machine-Learning-Model-Visualizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/machine-learning-model-visualizer/main/App/main.py)[![Heroku](https://img.shields.io/badge/-Paper-brightgreen)](https://ml-model-visualizer.herokuapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/machine-learning-model-visualizer/main/App/main.py)[![Heroku](https://img.shields.io/badge/Open_In-Heroku-brightgreen)](https://ml-model-visualizer.herokuapp.com/)
 
 ![Custom badge](https://img.shields.io/endpoint?color=blueviolet&label=Open%20In&logo=Heroku&logoColor=blueviolet&url=https%3A%2F%2Fml-model-visualizer.herokuapp.com%2F)
 
